@@ -1,0 +1,26 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: wheat;
+    text-align: center;
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+}
+
+/* footer {
+    border: 3px solid red;
+    background-color: skyblue;
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
+} */
+
+footer {
+    margin-top: auto;
+    background-color: red;
+}

@@ -1,0 +1,15 @@
+
+
+Light/Dark Mode Toggle
+- What HTML markup to use
+- Switching between light and Dark
+
+CSS Variables
+
+
+Prefers color scheme media queries?
+
+Accessibility?
+ - Correct heading tags
+ - Screenreader-only text for card-titles
+ 
